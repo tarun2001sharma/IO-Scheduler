@@ -6,6 +6,9 @@ This IO scheduling simulation project implements several disk scheduling algorit
 
 The project is based on a typical operating systems problem where I/O requests are queued and must be managed effectively to optimize access to disk resources. This simulation provides a hands-on approach to understanding how different algorithms can impact performance under various conditions.
 
+![image](https://github.com/tarun2001sharma/IO-Scheduler/assets/59308544/60f22d4d-24b6-470b-8aba-062dcf527f32)
+
+
 Implemented algorithms include:
 - **FIFO (First In, First Out)**: Processes requests in the order they arrive.
 - **SSTF (Shortest Seek Time First)**: Selects the request closest to the current head position.
